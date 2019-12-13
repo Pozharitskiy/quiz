@@ -1,5 +1,5 @@
 {
-  "homepage": "http://pozharitskiy.github.io/quiz",
+  "homepage": "http://aviatorshelmes.github.io/quiz",
   "name": "quiz",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
