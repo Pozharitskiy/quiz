@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.571149d8.chunk.css",
-    "main.js": "/quiz/static/js/main.201ddb61.chunk.js",
-    "main.js.map": "/quiz/static/js/main.201ddb61.chunk.js.map",
+    "main.css": "/quiz/static/css/main.d9c8f19f.chunk.css",
+    "main.js": "/quiz/static/js/main.a605e978.chunk.js",
+    "main.js.map": "/quiz/static/js/main.a605e978.chunk.js.map",
     "runtime-main.js": "/quiz/static/js/runtime-main.34b77b25.js",
     "runtime-main.js.map": "/quiz/static/js/runtime-main.34b77b25.js.map",
     "static/js/2.173f6eee.chunk.js": "/quiz/static/js/2.173f6eee.chunk.js",
     "static/js/2.173f6eee.chunk.js.map": "/quiz/static/js/2.173f6eee.chunk.js.map",
     "index.html": "/quiz/index.html",
-    "precache-manifest.4489dfa71c3ce353b8d8055c473b0aa4.js": "/quiz/precache-manifest.4489dfa71c3ce353b8d8055c473b0aa4.js",
+    "precache-manifest.e55b1adabcf7f77790cd569e84a32f1d.js": "/quiz/precache-manifest.e55b1adabcf7f77790cd569e84a32f1d.js",
     "service-worker.js": "/quiz/service-worker.js",
-    "static/css/main.571149d8.chunk.css.map": "/quiz/static/css/main.571149d8.chunk.css.map",
+    "static/css/main.d9c8f19f.chunk.css.map": "/quiz/static/css/main.d9c8f19f.chunk.css.map",
     "static/media/1.png": "/quiz/static/media/1.a7f1d5d3.png",
     "static/media/10.png": "/quiz/static/media/10.fa64f32b.png",
     "static/media/2.png": "/quiz/static/media/2.bd0ba8db.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.34b77b25.js",
     "static/js/2.173f6eee.chunk.js",
-    "static/css/main.571149d8.chunk.css",
-    "static/js/main.201ddb61.chunk.js"
+    "static/css/main.d9c8f19f.chunk.css",
+    "static/js/main.a605e978.chunk.js"
   ]
 }
